@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PicPay</string>
+    <string name="adicionar_novo_contato">Adicionar um novo contato</string>
+    <string name="remover">Remover</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="salvar_contato">Salvar contato</string>
+</resources>
